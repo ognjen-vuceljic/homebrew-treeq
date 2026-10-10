@@ -1,8 +1,8 @@
 class Treeq < Formula
   desc "Keyboard-driven tree view for JSON and XML, in your terminal"
   homepage "https://github.com/ognjen-vuceljic/treeq"
-  url "https://github.com/ognjen-vuceljic/treeq/archive/refs/tags/v0.14.0.tar.gz"
-  sha256 "50b4285e0e48cdd0ff18b32706549818ebdfaf20abdf8e365b84ed0ab3c600b0"
+  url "https://github.com/ognjen-vuceljic/treeq/archive/refs/tags/v0.14.1.tar.gz"
+  sha256 "4f00f8cc7c3c40e88909c42fea0fb493da6b4d4dd22690ff3f11bf4ff639c3f7"
   license "MIT"
   head "https://github.com/ognjen-vuceljic/treeq.git", branch: "main"
 
